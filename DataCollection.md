@@ -1,0 +1,206 @@
+# Domains and Questions
+
+- [x] Adventure Sports
+- [x] Agriculture
+- [x] Alternative Medicine
+- [x] Anesthesiology
+- [x] Animal Science
+- [x] Animation
+- [x] Anthropology
+- [x] Aquaculture
+- [x] Architecture
+- [x] Archeology
+- [x] Art
+- [x] Artificial Intelligence
+- [x] Aspiration and Future Plans
+- [x] Astrology
+- [x] Astronomy
+- [x] Astrophysics
+- [x] Automotive
+- [x] Aviation
+- [x] Ayurvedic Medicine
+- [x] Banking
+- [x] Behavioral Science
+- [x] Biochemistry
+- [x] Bioinformatics
+- [x] Biology
+- [x] Biomedical Engineering
+- [x] Biophysics
+- [x] Biotechnology
+- [x] Books
+- [x] Botany
+- [x] Business
+- [x] Business Administration
+- [x] Carpentry
+- [x] Chemistry
+- [x] Childcare
+- [x] Climate Science
+- [x] Commerce
+- [x] Communications
+- [x] Community Development
+- [x] Computer Science
+- [x] Construction
+- [x] Cooking and Food
+- [x] Counseling
+- [x] Craftsmanship
+- [x] Criminal Justice
+- [x] Culture
+- [x] Dance
+- [x] Dentistry
+- [x] Design
+- [x] Dietetics
+- [x] Digital Media
+- [x] Diplomacy
+- [x] Disaster Management
+- [x] Drama
+- [x] E-commerce
+- [x] Ecology
+- [x] Economics
+- [x] Education and Learning / Training
+- [x] Electrical
+- [x] Electronics
+- [x] Emergency Services
+- [x] Engineering
+- [x] Entertainment
+- [x] Environmental Science
+- [x] Epidemiology
+- [x] Event Planning
+- [x] Family Studies
+- [x] Fashion
+- [x] Film and Cinema
+- [x] Finance
+- [x] Fine Arts
+- [x] Fishing
+- [x] Fitness
+- [x] Floristry
+- [x] Food Science
+- [x] Forestry
+- [x] Gaming
+- [x] Gardening
+- [x] General Knowledge
+- [x] Genetics
+- [x] Geography
+- [x] Geology
+- [x] Graphic Design
+- [x] Government
+- [x] Healthcare
+- [x] History
+- [x] Home
+- [x] Horticulture
+- [x] Hospitality
+- [x] Human Resources
+- [x] Information Technology
+- [x] Interior Design
+- [x] International Relations
+- [x] Journalism
+- [x] Judiciary
+- [x] Language Studies
+- [x] Law
+- [x] Legal
+- [x] Library Science
+- [x] Lifestyle
+- [x] Linguistics
+- [x] Literature
+- [x] Logistics
+- [x] Machine Learning
+- [x] Magazine
+- [x] Management
+- [x] Manufacturing
+- [x] Marine Biology
+- [x] Marketing
+- [x] Materials Science
+- [x] Mathematics
+- [x] Mechanical Engineering
+- [x] Media Studies
+- [x] Medicine
+- [x] Meteorology
+- [x] Microbiology
+- [x] Military Science
+- [x] Mining
+- [x] Molecular Biology
+- [x] Music
+- [x] Mythology
+- [x] Nanotechnology
+- [x] Natural Resources
+- [x] Nature
+- [x] Neuroscience
+- [x] News
+- [x] Nursing
+- [x] Nutrition
+- [x] Oceanography
+- [x] Operations Research
+- [x] Opinion and Belief
+- [x] Optometry
+- [x] Paleontology
+- [x] Peace Studies
+- [x] Performing Arts
+- [x] Personal Finance
+- [x] Pharmacology
+- [x] Philosophy
+- [x] Photography
+- [x] Physical Education
+- [x] Physics
+- [x] Physiology
+- [x] Poetry
+- [x] Personal Experiences
+- [x] Political Science
+- [x] Politics
+- [x] Project Management
+- [x] Psychology
+- [x] Public Administration
+- [x] Public Health
+- [x] Public Relations
+- [x] Publishing
+- [x] Radio
+- [x] Real Estate
+- [x] Religious Studies
+- [x] Renewable Energy
+- [x] Research
+- [x] Robotics
+- [x] Rural Development
+- [x] Safety Management
+- [x] Science Communication
+- [x] Science
+- [x] Security
+- [x] Social Work
+- [x] Sociology
+- [x] Softwares
+- [x] Sports
+- [x] Statistics
+- [x] Supply Chain Management
+- [x] Sustainable Development
+- [x] Technology
+- [x] Telecommunications
+- [x] Television
+- [x] Tourism
+- [x] Trade
+- [x] Traditional Medicine
+- [x] Transportation
+- [x] Travel
+- [x] Urban Planning
+- [x] Veterinary Science
+- [x] Virology
+- [x] War
+- [x] Waste Management
+- [x] Water Resources
+- [x] Web Development
+- [x] Wildlife Conservation
+- [x] Women’s Studies
+- [x] Work and Careers
+- [x] Zoology
+
+# Taluka Specific Questions
+- [x] North Goa
+    - [x] Bardez
+    - [x] Bicholim
+    - [x] Pernem
+    - [x] Ponda
+    - [x] Sattari
+    - [x] Tiswadi
+- [x] South Goa
+    - [x] Canacona
+    - [x] Dharbandora
+    - [x] Mormugao
+    - [x] Quepem
+    - [x] Salcette
+    - [x] Sanguem
